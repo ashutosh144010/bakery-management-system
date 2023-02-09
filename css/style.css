@@ -1,0 +1,11 @@
+.pink-gradient{
+
+    background: linear-gradient(40deg,#FF5858,#ee4392);
+    color: white;
+}
+.pink-gradient:hover{
+    color: white;
+}
+.mask.rgba-gradient7 {
+    background: linear-gradient(98deg,rgba(22,91,231,.5),rgba(255,32,32,.5));
+}
